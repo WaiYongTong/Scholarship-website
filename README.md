@@ -1,3 +1,5 @@
+This project is a personal copy of a collaborative project for demonstration purposes.
+
 System Installation and Setup  
 
 Step 1: Database Configuration
