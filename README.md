@@ -1,5 +1,3 @@
-This project is a personal copy of a collaborative project for demonstration purposes.
-
 System Installation and Setup  
 
 Step 1: Database Configuration
@@ -80,6 +78,7 @@ The Admin manages the overall system configuration and user roles.
 
 •	Step 4: Archive Programs: Once a scholarship cycle is complete, run the Archive workflow to move the program to historical records, ensuring all reviews are finished before closing.
 
+This project is a personal copy of a collaborative project for demonstration purposes.
 <img width="962" height="451" alt="image" src="https://github.com/user-attachments/assets/8a6a663e-42cb-4c1a-b8c4-18e4d325d337" />
 <img width="964" height="477" alt="image" src="https://github.com/user-attachments/assets/4e7efad6-30e5-43fc-8166-f5c10290b895" />
 <img width="971" height="430" alt="image" src="https://github.com/user-attachments/assets/6d6d985c-e10d-44ef-86c0-23de5d2915e0" />
